@@ -9,7 +9,7 @@
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
     <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
-    <PackageReference Include="0f465813-68bd-4598-8f84-6b65ccd50b01/Tailspin.SpaceGame.Web.Models" Version="1.0.0-CI-20191122-015321" />
+    <PackageReference Include="Tailspin.SpaceGame.Web.Models" Version="1.0.0-CI-20191122-015321" />
   </ItemGroup>
 
   <ItemGroup>
